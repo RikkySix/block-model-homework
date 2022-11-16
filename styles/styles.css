@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+}
+
+#first {
+    height: 100px;
+    width: 100px;
+    color: aliceblue;
+    background-color: aqua;
+}
+
+#second {
+    height: 100px;
+    width: 100px;
+    color: royalblue;
+    background-color: brown;
+}
+
