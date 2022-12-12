@@ -1,18 +1,16 @@
-* {
-    background-color: black;
-}
-
 #first {
-    height: 100px;
-    width: 100px;
-    color: aliceblue;
-    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 10px solid blue;
+    margin: 100px;
 }
 
 #second {
-    height: 100px;
-    width: 100px;
-    color: royalblue;
-    background-color: brown;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 10px solid blue;
+    margin: 100px;  
 }
-
